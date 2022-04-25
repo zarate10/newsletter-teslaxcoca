@@ -1,4 +1,5 @@
 # NEWSLETTER TESLA x COCA COLA
-### Proyecto de la materia Diseño y Desarrollo Web, de la Tecnicatura Universitaria en Desarrollo de Software
+
+Proyecto materia Diseño y Desarrollo Web. 
 
 <img src="https://i.imgur.com/yb8m9yW.png">
